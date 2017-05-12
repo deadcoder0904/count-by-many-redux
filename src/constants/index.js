@@ -1,0 +1,9 @@
+const INCREMENT = 'INCREMENT'; 
+const DECREMENT = 'DECREMENT'; 
+const UPDATE_VALUE = 'UPDATE_VALUE';
+
+export default {
+	INCREMENT,
+	DECREMENT,
+	UPDATE_VALUE
+};
