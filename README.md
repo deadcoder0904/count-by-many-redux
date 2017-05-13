@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![count-by-many-redux](http://imgur.com/ssPFMMz.png)
+![count-by-many-redux](http://imgur.com/OM7aXkO.png)
 
 ### Made by A2K
 

@@ -11,13 +11,10 @@
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
-   "homepage": "http://deadcoder0904.github.io/count-by-many-redux",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   }
 }

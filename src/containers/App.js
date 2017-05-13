@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Button from  './Button';
+import Button from  '../components/Button';
 import InputBox from  './InputBox';
 import { incrementAction, decrementAction } from  '../actions/';
 import { connect } from 'react-redux';
